@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+faster-than-light
+# Faster Than Light (FTL)
 
-> Slugline
+> [FTL](https://github.com/yarlson/ftl) is a deployment tool that reduces complexity for projects that don't require extensive orchestration infrastructure. It provides automated deployment to cloud providers like Hetzner, DigitalOcean, Linode, and custom servers without the overhead of CI/CD pipelines or container orchestration platforms.
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
