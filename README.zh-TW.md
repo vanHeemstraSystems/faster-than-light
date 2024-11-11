@@ -4,7 +4,7 @@
 
 > 斯拉格萊恩
 
--   [詞彙表](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
 -   [文件](./DOCUMENTATION.md)
 
@@ -14,7 +14,7 @@
 
 ## 100 - 簡介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
