@@ -1,8 +1,8 @@
-Repository-Name
+schneller als das Licht
 
-# Repository-Name
+# Schneller als Licht (FTL)
 
-> Slugline
+> [FTL](https://github.com/yarlson/ftl)ist ein Bereitstellungstool, das die Komplexität von Projekten reduziert, die keine umfangreiche Orchestrierungsinfrastruktur erfordern. Es bietet eine automatisierte Bereitstellung für Cloud-Anbieter wie Hetzner, DigitalOcean, Linode und benutzerdefinierte Server ohne den Overhead von CI/CD-Pipelines oder Container-Orchestrierungsplattformen.
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
