@@ -1,8 +1,8 @@
-nom du référentiel
+plus rapide que la lumière
 
-# Nom du référentiel
+# Faster Than Light (FTL)
 
-> Slugline
+> [FTL](https://github.com/yarlson/ftl)est un outil de déploiement qui réduit la complexité des projets qui ne nécessitent pas une infrastructure d'orchestration étendue. Il permet un déploiement automatisé vers des fournisseurs de cloud comme Hetzner, DigitalOcean, Linode et des serveurs personnalisés sans la surcharge des pipelines CI/CD ou des plates-formes d'orchestration de conteneurs.
 
 -   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
