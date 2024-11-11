@@ -1,8 +1,8 @@
-repositorynaam
+sneller dan licht
 
-# Naam van opslagplaats
+# Faster Than Light (FTL)
 
-> Slaklijn
+> [FTL](https://github.com/yarlson/ftl)is een implementatietool die de complexiteit vermindert voor projecten waarvoor geen uitgebreide orkestratie-infrastructuur vereist is. Het biedt geautomatiseerde implementatie bij cloudproviders zoals Hetzner, DigitalOcean, Linode en aangepaste servers zonder de overhead van CI/CD-pijplijnen of containerorkestratieplatforms.
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
@@ -12,7 +12,7 @@ repositorynaam
 
 Tekst
 
-## 100 - Inleiding
+## 100 - Introduction
 
 Zien[README.md](./100/README.md)
 
