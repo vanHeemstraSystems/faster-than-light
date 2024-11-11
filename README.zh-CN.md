@@ -2,17 +2,17 @@
 
 # 超光速 (FTL)
 
-> [超光速](https://github.com/yarlson/ftl)是一种部署工具，可以降低不需要大量编排基础设施的项目的复杂性。它为 Hetzner、DigitalOcean、Linode 和自定义服务器等云提供商提供自动化部署，而无需 CI/CD 管道或容器编排平台的开销。
+> [超光速](https://github.com/yarlson/ftl) is a deployment tool that reduces complexity for projects that don't require extensive orchestration infrastructure. It provides automated deployment to cloud providers like Hetzner, DigitalOcean, Linode, and custom servers without the overhead of CI/CD pipelines or container orchestration platforms.
 
 -   [词汇表](./GLOSSARY.md)
--   [参考](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [文档](./DOCUMENTATION.md)
 
 **执行摘要**
 
 文本
 
-## 100 - 简介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
@@ -20,7 +20,7 @@
 
 看[README.md](./200/README.md)
 
-## 300 - 构建我们的应用程序
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
