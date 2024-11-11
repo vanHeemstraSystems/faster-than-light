@@ -1,3 +1,3 @@
 # References
 
-- [Reference Name](https://example.com)
+- [Faster Than Light (FTL)](https://github.com/yarlson/ftl)
