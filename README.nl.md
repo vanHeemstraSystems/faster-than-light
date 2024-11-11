@@ -1,18 +1,18 @@
 sneller dan licht
 
-# Faster Than Light (FTL)
+# Sneller dan licht (FTL)
 
 > [FTL](https://github.com/yarlson/ftl)is een implementatietool die de complexiteit vermindert voor projecten waarvoor geen uitgebreide orkestratie-infrastructuur vereist is. Het biedt geautomatiseerde implementatie bij cloudproviders zoals Hetzner, DigitalOcean, Linode en aangepaste servers zonder de overhead van CI/CD-pijplijnen of containerorkestratieplatforms.
 
 -   [Glossarium](./GLOSSARY.md)
--   [Referenties](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Documentatie](./DOCUMENTATION.md)
 
 **Samenvatting**
 
-Tekst
+Text
 
-## 100 - Introduction
+## 100 - Inleiding
 
 Zien[README.md](./100/README.md)
 
@@ -24,6 +24,6 @@ Zien[README.md](./200/README.md)
 
 Zien[README.md](./300/README.md)
 
-## 400 - Conclusie
+## 400 - Conclusion
 
-Zien[README.md](./400/README.md)
+See [README.md](./400/README.md)
