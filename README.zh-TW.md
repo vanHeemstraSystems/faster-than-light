@@ -1,10 +1,10 @@
-儲存庫名稱
+超光速
 
-# 儲存庫名稱
+# 超光速 (FTL)
 
-> 斯拉格萊恩
+> [超光速](https://github.com/yarlson/ftl)是一種部署工具，可以降低不需要大量編排基礎架構的專案的複雜性。它為 Hetzner、DigitalOcean、Linode 和自訂伺服器等雲端供應商提供自動化部署，而無需 CI/CD 管道或容器編排平台的開銷。
 
--   [Glossary](./GLOSSARY.md)
+-   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
 -   [文件](./DOCUMENTATION.md)
 
